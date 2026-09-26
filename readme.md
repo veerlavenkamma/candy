@@ -17,7 +17,7 @@ Candy is your personal desktop AI assistant built with Python. Just talk to it. 
 
 ### Installation
 1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/candy.git
+   git clone https://github.com/veerlavenkamma/candy
 2. Install packages
    pip install -r requirements.txt
 3. Run Ollama
